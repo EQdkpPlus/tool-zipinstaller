@@ -5,15 +5,15 @@
  * Link:		http://creativecommons.org/licenses/by-nc-sa/3.0/
  * -----------------------------------------------------------------------
  * Began:		2011
- * Date:		$Date: 2011-07-12 09:54:15 +0200 (Di, 12. Jul 2011) $
+ * Date:		$Date$
  * -----------------------------------------------------------------------
- * @author		$Author: Godmod $
+ * @author		$Author$
  * @copyright	2006-2011 EQdkp-Plus Developer Team
  * @link		http://eqdkp-plus.com
  * @package		eqdkp-plus
- * @version		$Rev: 10611 $
+ * @version		$Rev$
  * 
- * $Id: install.class.php 10611 2011-07-12 07:54:15Z Godmod $
+ * $Id$
  */
 
 error_reporting(0);
