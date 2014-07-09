@@ -20,7 +20,7 @@ error_reporting(0);
 ini_set("display_errors", 0); 
  
 define( 'INSTALL_ROOT', dirname( __FILE__ ));
-define( 'SETUP_PACKAGE', 'eqdkp_07.zip' );
+define( 'SETUP_PACKAGE', 'eqdkp_plus.zip' );
 define( 'INSTALL_DIR', (strlen($_POST['install_dir']) && valid_folder($_POST['install_dir'])) ? $_POST['install_dir'].'/' : '/');
 define( 'INSTALL_PATH', INSTALL_ROOT.INSTALL_DIR);
 if (!isset($_GET['step'])){
