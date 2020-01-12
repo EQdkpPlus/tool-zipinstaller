@@ -333,6 +333,7 @@ body {
 	background-size: 100%;
     margin: auto;
     min-height: 120px;
+	background-position-y: -20px;
 }
 
 .logoContainer {
