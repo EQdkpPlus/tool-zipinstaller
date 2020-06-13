@@ -99,9 +99,9 @@ function getCheckParams(){
 		return array(
 			'php'		=> array(
 				'name'			=> 'PHP-Version',
-				'required'		=> '5.4.0+',
+				'required'		=> '7.1.0+',
 				'installed'		=> phpversion(),
-				'passfail'		=> (phpversion() >= '5.4.0') ? true : false,
+				'passfail'		=> (phpversion() >= '7.1.0') ? true : false,
 			),
 			'zLib'		=> array(
 				'name'			=> 'Zip-Functions',
